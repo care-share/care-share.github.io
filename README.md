@@ -22,17 +22,17 @@ Before you can build and serve this web site locally (on Debian/Ubuntu), you mus
 
 4. Install the 'bundler' gem:
 
-       $ gem install bundler
+        $ gem install bundler
 
 5. Use bundler to install the 'github-pages' dependencies (e.g. Jekyll):
 
-       $ bundle install
+        $ bundle install
 
 ## Build and Serve
 
-To build and serve this web site using Jekyll:
+To build and serve this web site locally using Jekyll:
 
     $ bundle exec jekyll serve
 
-Then, access the site at http://localhost:4000
+Then, access the site at [http://localhost:4000](http://localhost:4000)
 
