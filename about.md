@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The mission of the Veterans Health Administration (VHA) [Office of Rural Health](http://www.ruralhealth.va.gov/)
+(ORH) is to improve access and quality of care for rural Veterans by developing
+evidence-based policies and innovative practices that support the unique needs
+of enrolled Veterans residing in geographically remote areas.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+The purpose of the VHA ORH Care-Share Pilot is to explore methods to improve
+home healthcare coordination for rural Veterans by providing communication and
+information sharing of care plans in a web-based environment.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
