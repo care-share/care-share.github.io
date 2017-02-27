@@ -4,6 +4,10 @@ email: project-care-share-list@lists.mitre.org
 description: > # this means to ignore newlines until "baseurl:"
   Development of this pilot is sponsored by the Veterans Health Administration
   (VHA) Office of Rural Health (ORH).
+copyright: >
+  The contents of this website are copyright © 2017 The MITRE Corporation.
+  Code and site content approved for public release, distribution unlimited
+  under case 16-2521.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://care-share.github.io" # the base hostname & protocol for your site
 twitter_username: ""
